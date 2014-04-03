@@ -1,20 +1,20 @@
 {
-  "name": "members-area-theme-somakeit",
+  "name": "members-area-theme-shh",
   "version": "0.1.0",
-  "description": "Southampton Makerspace theme for Members Area",
+  "description": "Surrey & Hampshire Hackspace theme for Members Area",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/benjie/members-area-theme-somakeit.git"
+    "url": "git://github.com/LeoAdamek/members-area-theme-shh.git"
   },
-  "author": "Benjie Gillam <code@benjiegillam.com>",
-  "license": "Proprietary",
+  "author": "Leo Adamek <leo@adamek.me>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benjie/members-area-theme-somakeit/issues"
+    "url": "https://github.com/LeoAdamek/members-area-theme-shh/issues"
   },
-  "homepage": "https://github.com/benjie/members-area-theme-somakeit",
+  "homepage": "https://github.com/LeoAdamek/members-area-theme-shh",
   "dependencies": {}
 }
