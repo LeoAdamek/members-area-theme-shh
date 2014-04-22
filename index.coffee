@@ -2,7 +2,7 @@ path = require 'path'
 
 module.exports =
   initialize: (done) ->
-    @name = "SoMakeIt"
+    @name = "SHH"
     publicDir = path.join(__dirname, 'public')
     @stylusMiddleware = require("#{@app.path}/app/middleware/stylus")(publicDir)
     @staticMiddleware = @express.static(publicDir)
