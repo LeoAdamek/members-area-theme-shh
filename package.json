@@ -1,6 +1,6 @@
 {
   "name": "members-area-theme-shh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Surrey & Hampshire Hackspace theme for Members Area",
   "main": "index.coffee",
   "scripts": {
